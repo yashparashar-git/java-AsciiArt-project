@@ -63,7 +63,7 @@ ASCII-Art-Generator/
 
 **Yash Parashar**
 
-Final Year BCA Student | Java Developer | Frontend Developer
+BCA 2nd Year Student
 
 ---
 
